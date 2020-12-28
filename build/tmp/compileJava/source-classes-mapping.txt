@@ -1,0 +1,80 @@
+com/example/record/giphy/DownsizedStill.java
+ com.example.record.giphy.DownsizedStill
+com/example/record/giphy/Onsent.java
+ com.example.record.giphy.Onsent
+com/example/record/giphy/Original.java
+ com.example.record.giphy.Original
+com/example/client/GifClient.java
+ com.example.client.GifClient
+com/example/record/giphy/Gif.java
+ com.example.record.giphy.Gif
+com/example/record/giphy/Data.java
+ com.example.record.giphy.Data
+com/example/record/giphy/Analytics.java
+ com.example.record.giphy.Analytics
+com/example/record/giphy/FixedWidthSmall.java
+ com.example.record.giphy.FixedWidthSmall
+com/example/record/giphy/FixedHeightStill.java
+ com.example.record.giphy.FixedHeightStill
+com/example/controller/GifController.java
+ com.example.controller.GifController
+com/example/record/giphy/FixedWidthStill.java
+ com.example.record.giphy.FixedWidthStill
+com/example/record/giphy/Looping.java
+ com.example.record.giphy.Looping
+com/example/record/giphy/Onclick.java
+ com.example.record.giphy.Onclick
+com/example/record/giphy/FixedHeightSmall.java
+ com.example.record.giphy.FixedHeightSmall
+com/example/record/giphy/FixedHeightSmallStill.java
+ com.example.record.giphy.FixedHeightSmallStill
+com/example/record/giphy/Pagination.java
+ com.example.record.giphy.Pagination
+com/example/record/giphy/Onload.java
+ com.example.record.giphy.Onload
+com/example/record/giphy/PreviewGif.java
+ com.example.record.giphy.PreviewGif
+com/example/record/giphy/OriginalStill.java
+ com.example.record.giphy.OriginalStill
+com/example/Application.java
+ com.example.Application
+com/example/record/giphy/Images.java
+ com.example.record.giphy.Images
+com/example/client/CurrencyClient.java
+ com.example.client.CurrencyClient
+com/example/record/giphy/DownsizedMedium.java
+ com.example.record.giphy.DownsizedMedium
+com/example/record/giphy/Meta.java
+ com.example.record.giphy.Meta
+com/example/record/giphy/DownsizedSmall.java
+ com.example.record.giphy.DownsizedSmall
+com/example/record/giphy/DownsizedLarge.java
+ com.example.record.giphy.DownsizedLarge
+com/example/record/openexchangerates/Rate.java
+ com.example.record.openexchangerates.Rate
+com/example/record/giphy/FixedWidth.java
+ com.example.record.giphy.FixedWidth
+com/example/record/giphy/OriginalMp4.java
+ com.example.record.giphy.OriginalMp4
+com/example/record/giphy/PreviewWebp.java
+ com.example.record.giphy.PreviewWebp
+com/example/service/GifService.java
+ com.example.service.GifService
+com/example/record/giphy/User.java
+ com.example.record.giphy.User
+com/example/record/giphy/FixedWidthSmallStill.java
+ com.example.record.giphy.FixedWidthSmallStill
+com/example/service/CurrencyService.java
+ com.example.service.CurrencyService
+com/example/record/giphy/Downsized.java
+ com.example.record.giphy.Downsized
+com/example/record/giphy/FixedHeight.java
+ com.example.record.giphy.FixedHeight
+com/example/record/giphy/Preview.java
+ com.example.record.giphy.Preview
+com/example/record/giphy/FixedHeightDownsampled.java
+ com.example.record.giphy.FixedHeightDownsampled
+com/example/record/giphy/FixedWidthDownsampled.java
+ com.example.record.giphy.FixedWidthDownsampled
+com/example/handler/ExceptionHandlerAdvice.java
+ com.example.handler.ExceptionHandlerAdvice
